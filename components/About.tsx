@@ -47,7 +47,7 @@ export default function About() {
             className="text-lg text-gray-600 dark:text-gray-300 mb-12 leading-relaxed"
           >
             <p className="mb-4">
-              I'm a Software Developer and Machine Learning Engineer currently pursuing my Masters 
+              I&apos;m a Software Developer and Machine Learning Engineer currently pursuing my Masters 
               in Computer Science at Texas A&M University Corpus Christi (GPA: 3.6), graduating 
               in May 2025. With a strong foundation in data structures, algorithms, and cloud-based 
               deployment, I specialize in developing AI-powered applications, deep learning models, 
@@ -57,12 +57,12 @@ export default function About() {
               My professional journey includes a Software Developer & ML Research Internship at 
               Defense Research and Development Laboratory (DRDL), where I delivered sub-millisecond 
               interrupt precision for MIL-STD-1553 communication avionics and achieved 86% accuracy 
-              with 0.66 Jaccard Index on U-Net segmentation models for aerial imagery. I've also 
+              with 0.66 Jaccard Index on U-Net segmentation models for aerial imagery. I&apos;ve also 
               worked as a Networking Intern at Cisco Networking Academy, configuring enterprise networks 
               and improving uptime to 99.8%.
             </p>
             <p>
-              I'm passionate about transforming research into practical solutions through applied AI, 
+              I&apos;m passionate about transforming research into practical solutions through applied AI, 
               deep learning, and system optimization. My expertise spans computer vision, NLP, real-time 
               model integration, and full-stack development for defense, security, and automation domains.
             </p>

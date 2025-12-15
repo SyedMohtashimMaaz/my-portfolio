@@ -55,7 +55,7 @@ export default function Contact() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary-600 to-primary-400 mx-auto mb-4"></div>
           <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-            I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+            I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
           </p>
         </motion.div>
 
@@ -71,10 +71,10 @@ export default function Contact() {
             >
               <div>
                 <h3 className="text-2xl font-semibold mb-6 text-gray-800 dark:text-gray-200">
-                  Let's Connect
+                  Let&apos;s Connect
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-8">
-                  Feel free to reach out if you're looking for a developer, have a question,
+                  Feel free to reach out if you&apos;re looking for a developer, have a question,
                   or just want to connect.
                 </p>
               </div>
